@@ -2,7 +2,9 @@
 
 Run Instructions:
 
-execute following commands to install necessary packages:-
+Keep the datasets and code in the same folder.
+
+Execute following commands to install necessary packages:-
 
 pip install scikit-multilearn
 
